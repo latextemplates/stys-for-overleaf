@@ -1,8 +1,8 @@
 # stys-for-overleaf
 
-Provide missing sty files for overleaf.
+> Missing sty files for overleaf.
 
-Overleaf is based on TeX Live 2016 and does not offer recent packages available on [CTAN](https://www.ctan.org/) (and thus in [TeX Live](https://www.tug.org/texlive/) and [MiKTeX](https://miktex.org/)).
+[Overleaf](https://www.overleaf.com/) is [based on TeX Live 2016](https://www.overleaf.com/blog/435-tex-live-upgrade-november-2016) and does not offer recent packages available on [CTAN](https://www.ctan.org/) (and thus in [TeX Live](https://www.tug.org/texlive/) and [MiKTeX](https://miktex.org/)).
 They have a FAQ [What packages do you support?](https://www.overleaf.com/help/30-what-packages-do-you-support), which contained the hitn to email them.
 This hint was removed and they want to keep their system consistent and stable.
 Thus, users have to upload missing `sty` files manually.
