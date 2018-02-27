@@ -9,3 +9,5 @@ However, not all package authors offer the compiled `sty` file, but only the sou
 Although all [texlive packages are available online](http://ftp.dante.de/tex-archive/systems/texlive/tlnet/archive/), they are archived and one cannot directly download the `sty` files.
 
 Hence, this repository offers quick access to required `sty` files.
+
+- [lccaps.sty](lccaps.sty)
